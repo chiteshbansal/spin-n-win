@@ -27,7 +27,7 @@ myMusic.style.display='none';
 var spinbtn = document.getElementById('spinNowBtn');
 
 function preload () {
-    this.load.image('background',"Assets/back.jpg");
+    this.load.image('background',"Assets/back3.jpg");
     this.load.image('wheel','Assets/wheel.png');
     this.load.image('pin','Assets/pin.png');
     this.load.image('stand','Assets/stand.png');
